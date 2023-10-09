@@ -3,7 +3,7 @@ layout: post
 title: You're up and running!
 ---
 
-Probando, probando.
+Prueba del lunes 9 de octubre.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
